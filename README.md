@@ -10,13 +10,13 @@ After calculating correlation of features, Dates were selected as a feature for 
 RESULTS:
 Linear Regression:
 Accuracy: 78.7895%
-![](images/linear.PNG)
+![](images/linear.png)
 Polynomial Regression:
 Accuracy: 80.79%
-![](images/polynomial.PNG)
+![](images/polynomial.png)
 Support Vector Regression:
 Accuracy: 88.06385%
-![](images/cvr.PNG)
+![](images/cvr.png)
 Random Forests:
 Accuracy: 93.88%
-![](images/random.PNG)
+![](images/random.png)
