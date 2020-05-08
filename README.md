@@ -11,12 +11,18 @@ RESULTS:
 Linear Regression:
 Accuracy: 78.7895%
 ![](images/linear.png)
+
+
 Polynomial Regression:
 Accuracy: 80.79%
 ![](images/polynomial.png)
+
+
 Support Vector Regression:
 Accuracy: 88.06385%
 ![](images/cvr.png)
+
+
 Random Forests:
 Accuracy: 93.88%
 ![](images/random.png)
