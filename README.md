@@ -5,9 +5,8 @@ Dates, Lowest value of stock, Close and Open stock prices were converted to inte
 ![](images/conversiontable.PNG)
 
 
-
 After calculating correlation of features, Dates were selected as a feature for predicting the Close Price date.
-
+![](images/correlationmatrix.PNG)
 
 RESULTS:
 
