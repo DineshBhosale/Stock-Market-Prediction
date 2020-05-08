@@ -7,7 +7,10 @@ Dates, Lowest value of stock, Close and Open stock prices were converted to inte
 
 
 After calculating correlation of features, Dates were selected as a feature for predicting the Close Price date.
+
+
 RESULTS:
+
 Linear Regression:
 Accuracy: 78.7895%
 ![](images/linear.png)
@@ -20,9 +23,9 @@ Accuracy: 80.79%
 
 Support Vector Regression:
 Accuracy: 88.06385%
-![](images/cvr.png)
+![](images/svr.png)
 
 
 Random Forests:
 Accuracy: 93.88%
-![](images/random.png)
+![](images/randomforests.png)
